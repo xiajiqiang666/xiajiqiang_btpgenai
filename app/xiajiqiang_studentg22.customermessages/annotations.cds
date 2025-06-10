@@ -1,0 +1,1 @@
+using xiaJiqiang_STUDENTG22Srv as service from '../../srv/service';
